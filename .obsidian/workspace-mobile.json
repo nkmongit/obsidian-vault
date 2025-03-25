@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "eff8a615527c417c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dd76600f446f23e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6011237d8aad460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - MAPS OF CONTENT/WEB-DEV - MOC/100xDev - Web Dev - MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "100xDev - Web Dev - MOC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79754cdf5d94fb0e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1512027515fe840d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "3b02c78b4cb9a333",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "441053eb1721758a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "f82bfb2550a5fdb7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e1bff819694566b5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ebc9ec153cf13f11",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "8e39491e9d9d109a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "344aa3b259aa9bbc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "0b654b4e5786cc29",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "5c09d56e27b150bc",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "7c00348d73904c94",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "c368a727bed5921c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "d91163aa804ee095",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-importer:Open Importer": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f6011237d8aad460",
+  "lastOpenFiles": [
+    "00 - MAPS OF CONTENT/WEB3 - MOC/100xDevs - Web3 - MOC.md",
+    "03 - RESOURCES/IMG_0052.gif",
+    "02 - AREAS/SALESFORCE - AREAS/Hhh.md",
+    "00 - MAPS OF CONTENT/WEB-DEV - MOC/100xdev - Web Dev - MOC.md",
+    "00 - MAPS OF CONTENT/SALESFORCE - MOC/COMMERCE CLOUD - MOC.md",
+    "04 - PERMANENT/SALESFORCE - PERMANENT/COMMERCE CLOUD/SFCC - LEARNING/Concepts and Terminology.md",
+    "04 - PERMANENT/SALESFORCE - PERMANENT/COMMERCE CLOUD/SFCC - LEARNING/Security Best Practices for Developers.md",
+    "04 - PERMANENT/SALESFORCE - PERMANENT/COMMERCE CLOUD/SFCC - LEARNING",
+    "04 - PERMANENT/Security Best Practices for Developers.md",
+    "04 - PERMANENT/SALESFORCE - PERMANENT/Untitled.md",
+    "04 - PERMANENT/SALESFORCE - PERMANENT/COMMERCE CLOUD/SFCC - LEARNING",
+    "04 - PERMANENT/SALESFORCE - PERMANENT/COMMERCE CLOUD",
+    "00 - MAPS OF CONTENT/SALESFORCE - MOC/COMMERCE CLOUD",
+    "06 - DAILY/READING - DAILY/CODING/The Clean Coder - DAILY.md",
+    "00 - MAPS OF CONTENT/READING - MOC/CODING - MOC",
+    "03 - RESOURCES/TEMPLATES",
+    "06 - DAILY/READING - DAILY/MINDFUL/GITA.md",
+    "06 - DAILY/READING - DAILY/MINDFUL",
+    "06 - DAILY/READING - DAILY/CODING",
+    "06 - DAILY/READING - DAILY",
+    "00 - MAPS OF CONTENT/READING - MOC",
+    "04 - PERMANENT/2024-07-10.md",
+    "03 - RESOURCES/TEMPLATES/Expert Template.md",
+    "03 - RESOURCES/TEMPLATES/Tool Template.md",
+    "03 - RESOURCES/TEMPLATES/cm Template.md",
+    "04 - PERMANENT/Monthly Log 2022.md",
+    "03 - RESOURCES/TEMPLATES/Bullet Journal - Weekly Log.md",
+    "03 - RESOURCES/TEMPLATES/_Note Template.md",
+    "Excalidraw/Drawing 2024-07-09 22.13.36.excalidraw.md",
+    "Untitled.canvas",
+    "04 - PERMANENT/2024-07-09.md",
+    "Zettlekasten/Untitled.md",
+    "Untitled Kanban.md",
+    "Excalidraw/Drawing 2024-07-09 12.50.47.excalidraw.md"
+  ]
+}

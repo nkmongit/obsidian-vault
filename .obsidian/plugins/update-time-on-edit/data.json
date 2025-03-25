@@ -1,0 +1,15 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "01 - NOTES/SALESFORCE - NOTES/APEX - NOTES/Apex Annotations.md": "b649bb01f7f5f75c0d990c8c595f702a1f6c17bd899f58fbb231f114eba22e92",
+    "01 - NOTES/DEVOPS - NOTES/JENKINS - NOTES/Jenkins Basics.md": "83d35a88435249f7fcc9e14d353b2c4805867bb9a5d846f82cf33d6ee4ddc036",
+    "01 - NOTES/DEVOPS - NOTES/GIT - NOTES/Git Basics.md": "ce419cb2de9b332bc684e636f5ac420f42ab0453b3ecb7a15add19e1f26abd8a"
+  }
+}

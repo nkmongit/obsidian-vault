@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "548b967760746b32",
+    "type": "split",
+    "children": [
+      {
+        "id": "f68749e5f4188247",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97cb423fe95ea93b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - NOTES/DEVOPS - NOTES/GIT - NOTES/Git Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git Basics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54884349785a21b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "45e632cd523ec0a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "316d06171bc19b07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "35c477ad20cab773",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "34cb224cb14d3efa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9050f3bdb1a85d20",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce0d53426ce3ecaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd11448f224c5289",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 - DAILY/WEB-DEV - DAILY/WEEK - 4  NodeJS and HTTP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for WEEK - 4  NodeJS and HTTP"
+            }
+          },
+          {
+            "id": "1c1a3babced240ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 - DAILY/WEB-DEV - DAILY/WEEK - 4  NodeJS and HTTP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from WEEK - 4  NodeJS and HTTP"
+            }
+          },
+          {
+            "id": "a8bfca6ea4cfbb81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "36d70cb9542ec75e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - DAILY/WEB-DEV - DAILY/WEEK - 4  NodeJS and HTTP.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of WEEK - 4  NodeJS and HTTP"
+            }
+          },
+          {
+            "id": "c251b69f98885fa3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "ffc8694243368c0b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "035914d5ad8cda73",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1ba52f2f9d635321",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "224e0f840e0b1330",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e0ab19f4ce1d9df0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1350756bb48c466f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9b521e65c6016b0a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "97cb423fe95ea93b",
+  "lastOpenFiles": [
+    "01 - NOTES/DEVOPS - NOTES/GIT - NOTES/Git Basics.md",
+    "01 - NOTES/SALESFORCE - NOTES/APEX - NOTES/Apex Annotations.md",
+    "01 - NOTES/DEVOPS - NOTES/JENKINS - NOTES/Jenkins Basics.md",
+    "01 - NOTES/DEVOPS - NOTES/GIT - NOTES/Untitled.md",
+    "01 - NOTES/DEVOPS - NOTES/GIT - NOTES",
+    "01 - NOTES/DEVOPS - NOTES/JENKINS - NOTES",
+    "01 - NOTES/DEVOPS - NOTES",
+    "01 - NOTES/SALESFORCE - NOTES/DEVOPS - N",
+    "03 - NOTES/SALESFORCE - NOTES/CPQ - NOTES/Untitled.md",
+    "03 - NOTES/SALESFORCE - NOTES/Untitled",
+    "01 - NOTES/SALESFORCE - NOTES/COMMUNITY - NOTES",
+    "01 - NOTES/SALESFORCE - NOTES/VF - NOTES",
+    "01 - NOTES/SALESFORCE - NOTES/LWC - NOTES",
+    "01 - NOTES/SALESFORCE - NOTES/APEX - NOTES",
+    "00 - MAPS OF CONTENT/WEB-DEV - MOC/100xDev - Web Dev - MOC.md",
+    "01 - NOTES/SALESFORCE - NOTES/OMNISTUDIO - NOTES",
+    "03 - NOTES/Untitled.md",
+    "03 - NOTES/Untitled.canvas",
+    "00 - MAPS OF CONTENT/WEB3 - MOC/100xDevs - Web3 - MOC.md",
+    "00 - MAPS OF CONTENT/SALESFORCE - MOC/COMMERCE CLOUD - MOC.md",
+    "03 - DAILY/SALESFORCE - DAILY/SERVICE CLOUD - DAILY/SERVICE CLOUD - INTRODUCTION.md",
+    "02 - RESOURCES/IMAGES/SALESFORCE - IMAGES/Service-Console.png",
+    "03 - DAILY/WEB-DEV - DAILY/WEEK - 4  NodeJS and HTTP.md",
+    "03 - DAILY/WEB3 - DAILY/WEEK - 1.md",
+    "01 - PROJECTS/WEB3 - PROJECTS/WEB3 - PROJECTS.md",
+    "03 - RESOURCES/IMG_0052.gif"
+  ]
+}
