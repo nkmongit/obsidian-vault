@@ -1,6 +1,6 @@
 ---
 created: 2025-03-24T21:44
-updated: 2025-03-25T23:44
+updated: 2025-03-26T00:06
 tags:
   - devops
   - git
@@ -152,7 +152,7 @@ On master branch
 	- Github
 	- Gitlab
 	- Bitbucket
-- Once we successfully intialize a repo on one of these platforms, we get access to something called a connection string.
+- Once we successfully initialise a repo on one of these platforms, we get access to something called a connection string.
 - A connection string is an url from which we can let git know where the repository is located.
 - We can add the repository into our local project with the `git remote add` command.
 - We want to add the alias  `origin` at last like this `git remote add origin` to make sure that we always know which remote repo we're pushing to without memorising the entire  connection string. 
@@ -160,3 +160,5 @@ On master branch
 - We can list all our remote repos using the command `git remote -v`.
 ##### Pushing Data
 - In order to keep our local and remote repo in sync, we have to push the data from our local repo to the remote repo.
+##### Cloning Data
+- You can clone a repo using `git clone [ssh link]`

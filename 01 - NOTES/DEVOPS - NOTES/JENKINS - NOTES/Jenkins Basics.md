@@ -1,6 +1,6 @@
 ---
 created: 2025-03-19T06:04
-updated: 2025-03-24T21:44
+updated: 2025-03-26T22:53
 tags:
   - devops
   - jenkins
@@ -100,4 +100,12 @@ Jenkins is a automated CI/CD tool which provides the ability to
 	- Without CI, testing typically occurs late in the dev cycle, often after multiple merges have taken place.
 - Inefficient Deployment
 	- In the absence of CI, deploying code to various
-	- 
+
+
+
+### Jenkins Architecture
+
+- It leverages a distributed architecture to manage your CI / CD pipelines efficiently
+- This structure offers scalability and power, allowing you to automate complex workflows across multiple machines.
+- The first component in the architecture is the `Jenkins Controller`
+- It is the central hub of your jenkins setup

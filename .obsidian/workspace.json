@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - NOTES/DEVOPS - NOTES/GIT - NOTES/Git Basics.md",
+                "file": "01 - NOTES/DEVOPS - NOTES/JENKINS - NOTES/Jenkins Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Basics"
+              "title": "Jenkins Basics"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9050f3bdb1a85d20",
@@ -223,12 +222,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ba57ee6311e5ee73",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
@@ -251,8 +260,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "97cb423fe95ea93b",
+  "active": "316d06171bc19b07",
   "lastOpenFiles": [
+    "00 - RESOURCES/PDFS/DEVOPS - PDFS/JENKINS - PDF/Jenkins_for_Beginners.pdf",
+    "00 - RESOURCES/PDFS/DEVOPS - PDFS/JENKINS - PDF",
+    "00 - RESOURCES/PDFS/DEVOPS - PDFS",
+    "00 - RESOURCES/PDFS",
     "01 - NOTES/DEVOPS - NOTES/GIT - NOTES/Git Basics.md",
     "01 - NOTES/SALESFORCE - NOTES/APEX - NOTES/Apex Annotations.md",
     "01 - NOTES/DEVOPS - NOTES/JENKINS - NOTES/Jenkins Basics.md",
@@ -265,10 +278,7 @@
     "03 - NOTES/SALESFORCE - NOTES/Untitled",
     "01 - NOTES/SALESFORCE - NOTES/COMMUNITY - NOTES",
     "01 - NOTES/SALESFORCE - NOTES/VF - NOTES",
-    "01 - NOTES/SALESFORCE - NOTES/LWC - NOTES",
-    "01 - NOTES/SALESFORCE - NOTES/APEX - NOTES",
     "00 - MAPS OF CONTENT/WEB-DEV - MOC/100xDev - Web Dev - MOC.md",
-    "01 - NOTES/SALESFORCE - NOTES/OMNISTUDIO - NOTES",
     "03 - NOTES/Untitled.md",
     "03 - NOTES/Untitled.canvas",
     "00 - MAPS OF CONTENT/WEB3 - MOC/100xDevs - Web3 - MOC.md",
