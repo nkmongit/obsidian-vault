@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f68749e5f4188247",
+        "id": "795fac2975d9e505",
         "type": "tabs",
         "children": [
           {
-            "id": "97cb423fe95ea93b",
+            "id": "b909e2299ba51cb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9050f3bdb1a85d20",
@@ -232,12 +233,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "34501dbe6e3cd1cc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2135d281bd08c496",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -260,15 +281,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "316d06171bc19b07",
+  "active": "2135d281bd08c496",
   "lastOpenFiles": [
+    "01 - NOTES/DEVOPS - NOTES/JENKINS - NOTES/Jenkins Basics.md",
     "00 - RESOURCES/PDFS/DEVOPS - PDFS/JENKINS - PDF/Jenkins_for_Beginners.pdf",
     "00 - RESOURCES/PDFS/DEVOPS - PDFS/JENKINS - PDF",
     "00 - RESOURCES/PDFS/DEVOPS - PDFS",
     "00 - RESOURCES/PDFS",
     "01 - NOTES/DEVOPS - NOTES/GIT - NOTES/Git Basics.md",
     "01 - NOTES/SALESFORCE - NOTES/APEX - NOTES/Apex Annotations.md",
-    "01 - NOTES/DEVOPS - NOTES/JENKINS - NOTES/Jenkins Basics.md",
     "01 - NOTES/DEVOPS - NOTES/GIT - NOTES/Untitled.md",
     "01 - NOTES/DEVOPS - NOTES/GIT - NOTES",
     "01 - NOTES/DEVOPS - NOTES/JENKINS - NOTES",
@@ -277,7 +298,6 @@
     "03 - NOTES/SALESFORCE - NOTES/CPQ - NOTES/Untitled.md",
     "03 - NOTES/SALESFORCE - NOTES/Untitled",
     "01 - NOTES/SALESFORCE - NOTES/COMMUNITY - NOTES",
-    "01 - NOTES/SALESFORCE - NOTES/VF - NOTES",
     "00 - MAPS OF CONTENT/WEB-DEV - MOC/100xDev - Web Dev - MOC.md",
     "03 - NOTES/Untitled.md",
     "03 - NOTES/Untitled.canvas",
